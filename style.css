@@ -1,0 +1,21 @@
+
+
+
+.text-color{
+  color: #94d2bd;
+    background-color: bisque;
+    font-weight: 900;
+}
+#first{
+    color: rgba(250, 9, 9, 0.767);
+    
+}
+
+h1{
+    font-family: 'Tajawal', sans-serif;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
